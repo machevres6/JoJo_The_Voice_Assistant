@@ -1,4 +1,4 @@
-# JoJO the Virtual Assistant
+# JoJo the Virtual Assistant
 
 Created this virtual assistant that does some simple 
 tasks for now, I plan to include more features to it
